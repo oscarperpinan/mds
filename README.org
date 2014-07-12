@@ -1,5 +1,3 @@
 This repository provides a wiki with a collection of meteorological
 data sources. It includes services that publish *observations*,
-*forecasts* and *reanalysis*. 
-
-Go to the [[https://github.com/oscarperpinan/mds/wiki][wiki]].
+*forecasts* and *reanalysis*. Go to the [[https://github.com/oscarperpinan/mds/wiki][wiki]].
