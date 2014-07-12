@@ -2,6 +2,6 @@
 
 List of meteorological data sources:
 
-- Observations
-- Forecast
-- Reanalysis
+- [[https://github.com/oscarperpinan/mds/blob/master/dataSources.org#1-climate-and-meteorological-observations][Observations]]
+- [[https://github.com/oscarperpinan/mds/blob/master/dataSources.org#2-weather-forecast][Forecast]]
+- [[https://github.com/oscarperpinan/mds/blob/master/dataSources.org#3-reanalysis][Reanalysis]]
