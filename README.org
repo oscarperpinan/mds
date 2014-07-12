@@ -1,7 +1,5 @@
-* Meteorological Data Sources
+This repository provides a wiki with a collection of meteorological
+data sources. It includes services that publish *observations*,
+*forecasts* and *reanalysis*. 
 
-List of meteorological data sources:
-
-- [[https://github.com/oscarperpinan/mds/blob/master/dataSources.org#1-climate-and-meteorological-observations][Observations]]
-- [[https://github.com/oscarperpinan/mds/blob/master/dataSources.org#2-weather-forecast][Forecast]]
-- [[https://github.com/oscarperpinan/mds/blob/master/dataSources.org#3-reanalysis][Reanalysis]]
+Go to the [[https://github.com/oscarperpinan/mds/wiki][wiki]].
